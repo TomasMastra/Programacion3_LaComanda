@@ -1,0 +1,3 @@
+sillas,fecha_reserva,hora_inicio,estado,nombre,numero_mesa
+4,2023-12-01,18:00,Con cliente esperando pedido,Mariana Sanchez,9
+6,2023-12-02,19:30,Con cliente esperando pedido,Angel,10
